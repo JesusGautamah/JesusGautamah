@@ -1,8 +1,8 @@
 ### Welcome!👋
 
-- 🔭 Trabalhando com Ruby & React
-- 🌱 Atualmente desenvolvendo projetos Open Source.
-- 🤔 Cursando Ciência da Computação
+- 🔭 Working with Ruby & React
+- 🌱 Open Source
+- 🤔 Studying Computer Science
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusGautamah&count_private=true&show_icons=true&theme=tokyonight&hide_title=true)
 
