@@ -7,3 +7,7 @@
 ### Holopin Badge Board
 [![@jesusgautamah's Holopin board](https://holopin.me/jesusgautamah)](https://holopin.io/@jesusgautamah)
 
+### Athenas Lab
+Trying to create a educational platform using gpt models.
+[Athenas Lab](https://athenas-lab.com)
+
