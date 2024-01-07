@@ -1,4 +1,4 @@
-### 🛸 Welcome! 🛸
+### 🛸 Welcome!
 
 Hello, world! I'm Jesus Gautamah 👽.
 
@@ -10,7 +10,7 @@ Hello, world! I'm Jesus Gautamah 👽.
 
 🤝 I'm looking to collaborate on open-source projects. I believe in the power of community and shared knowledge.
 
-📫 Reach out to me on LinkedIn!
+📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/igor-lima-de-jesus-6834b01b0/)!
 
 ⚡ Fun fact: When I'm not coding, you can find me exploring the outer space of coding.
 
