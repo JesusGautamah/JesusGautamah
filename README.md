@@ -1,5 +1,7 @@
 ## 🛸 Welcome!
 
+#### This is my personal profile, you can visit my work profile at [Github: IgorLimaJesus](https://github.com/IgorLimaJesus).
+
 ### 🖖 Hello, world! I'm Jesus Gautamah 👽.
 
 #### 🔭 I'm a passionate developer from Santo André, São Paulo, Brazil. I love solving complex problems and building innovative solutions.
